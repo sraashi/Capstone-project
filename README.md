@@ -31,9 +31,8 @@ Try other models, Bayes and Random forest to compare with what the authors have 
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- (https://github.com/sraashi/Capstone-project)
+
 
 
 ##### Contact and Further Information
